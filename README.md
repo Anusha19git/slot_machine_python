@@ -3,12 +3,18 @@ A simple command-line based slot machine game built using Python. This project s
 
 **Features** :
 Deposit money
+
 Spin the slot machine
+
 Random outcome generation
+
 Winning calculation logic
+
 Exit anytime
 
 **Technologies Used** :
 Python
+
 Random module
+
 Command Line Interface (CLI)
